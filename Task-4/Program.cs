@@ -6,12 +6,12 @@ namespace Task_4
     {
         static void Main(string[] args)
         {
-            //DayofWeek();
-            //LifeDays();
-            //NowPlusDay();
-            //Yoxla();
-            //BoyukReqemiTap();
-            //GunleriTap();
+            DayofWeek();
+            LifeDays();
+            NowPlusDay();
+            Yoxla();
+            BoyukReqemiTap();
+            GunleriTap();
             Math();
         }
 
