@@ -63,7 +63,7 @@ namespace Task_4
             Console.WriteLine("Gunu daxil edin");
             int gun = int.Parse(Console.ReadLine());
 
-            Console.WriteLine($"Daxil edilen tarix  {gun}-{ay}-{il} doghru tarixdir");
+            Console.WriteLine($"Daxil edilen tarix  {gun}-{ay}-{il}");
 
             if (il>2022 || il<0)
             {
